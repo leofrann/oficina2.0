@@ -15,7 +15,7 @@
         integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW"
         crossorigin="anonymous"></script>
 
-        <title>Lista de Orçamentos</title>
+        <title>Oficina 2.0</title>
 
     </head>
     <body class="bg-light">

@@ -2,7 +2,7 @@
 @extends ('layout')
 <!-- Passando os dados para o cabeçalho -->
 @section('cabecalho')
-  <h2> Lista de Orçamentos </h2>
+  <h2> Oficina2.0 </h2>
   <a href="{{ route('add_orcamento') }}" class="btn btn-dark " style="right: 3%;">
     Cadastrar
   </a>
